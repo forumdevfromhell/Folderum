@@ -1,4 +1,4 @@
-# 📁 Folderum — Everything Is A Folder Edition
+# 📁 Folderum - Everything Is A Folder Edition
 
 > **A forum engine for people who looked at MySQL, PostgreSQL and SQLite and said:**
 >
@@ -111,7 +111,7 @@ Recommended:
 
 - Debian/Ubuntu
 - Apache 2.4+
-- PHP 8.0+ — required because the code uses `str_starts_with()`
+- PHP 8.0+ - required because the code uses `str_starts_with()`
 - `libapache2-mod-php`
 - `unzip`
 - optionally `tree`
@@ -207,7 +207,7 @@ You should now have roughly:
 
 ---
 
-## 🔐 Permissions — Give PHP Permission To Commit The Crime
+## 🔐 Permissions - Give PHP Permission To Commit The Crime
 
 The PHP source does **not** need to be writable.
 
